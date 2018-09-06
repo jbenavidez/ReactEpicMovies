@@ -29,9 +29,9 @@ $ npm start
 ![Alt text](src/assets/homepage2.png "Home" )
 
 ### Movies view details -- Cast
-![Alt text](src/assets/homepag5.png "Home" )
+![Alt text](src/assets/homepage5.png "Home" )
 
 ### Movies view production details& movies suggestions
-![Alt text](src/assets/homepag6.png "Home" )
+![Alt text](src/assets/homepage6.png "Home" )
 
  
