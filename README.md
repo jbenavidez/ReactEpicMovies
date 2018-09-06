@@ -42,4 +42,4 @@ $ npm start
 
 
 ###  list  UI
-![Alt text](src/assets/homepage7.png "Home" )
+![Alt text](src/assets/homepage8.png "Home" )
