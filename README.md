@@ -27,6 +27,9 @@ $ npm start
 ![Alt text](src/assets/homepage3.png "Home" )
 
 
+###   movie search result 
+![Alt text](src/assets/result.png "Home" )
+
 ### Homepage video player
 ![Alt text](src/assets/homepage2.png "Home" )
 
