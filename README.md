@@ -4,9 +4,11 @@ This app was created using Reactjs
 
  # App Concept
 <ul>
- <li>it allow you to search movies,</li>
+
  <li>it allow you to watch trailer</li>
+  <li>it allow you to search movies,</li>
   <li>it allow you to see movie details</li>
+   <li>it allow you create a list of movies</li>
 </ul>
 
 ## How to run this app
@@ -35,3 +37,9 @@ $ npm start
 ![Alt text](src/assets/homepage6.png "Home" )
 
  
+###  list shopping cart 
+![Alt text](src/assets/homepage7.png "Home" )
+
+
+###  list  UI
+![Alt text](src/assets/homepage7.png "Home" )
